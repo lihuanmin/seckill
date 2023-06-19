@@ -1,10 +1,10 @@
-package com.source.seckill;
+package com.souce.advance.client;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SeckillApplicationTests {
+class ClientApplicationTests {
 
 	@Test
 	void contextLoads() {

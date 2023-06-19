@@ -1,13 +1,13 @@
-package com.source.seckill;
+package com.source.advance.eureka.eurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SeckillApplication {
+public class EurekaServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SeckillApplication.class, args);
+		SpringApplication.run(EurekaServerApplication.class, args);
 	}
 
 }
